@@ -1,4 +1,4 @@
-# vercel
+# SKYcel
 
 To install dependencies:
 
