@@ -7,10 +7,15 @@ Built with **TypeScript**, **Bun**, **Express**, **simple-git**, **AWS SDK (S3)*
 ---
 
 ## Architecture
+<<<<<<< HEAD
 
 <img width="1097" height="447" alt="Screenshot 2026-11-10 at 9 20 26 AM" src="https://github.com/user-attachments/assets/9a561718-1c5d-4d3f-8ef4-2e581020e2a6" />
 
 
+=======
+<img width="1097" height="447" alt="Screenshot 2026-11-10 at 9 20 26 AM" src="https://github.com/user-attachments/assets/9a561718-1c5d-4d3f-8ef4-2e581020e2a6" />
+
+>>>>>>> 570a649 (added get all file function)
 The system is split into three independent services:
 
 | # | Service | Responsibility |
